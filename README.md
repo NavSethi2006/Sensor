@@ -14,3 +14,7 @@ Its fairly simple:
 ## How it Works
 
 The "Sensor" uses ultrasonic sensors to detect any movement interupption under 12 meters. If the sensor triggers, it communicates to the raspberry pi via serial communication. The raspberry pi has a server hosted on it for the client to connect on any desktop device, once the client is connected you can control functions such as where you would like to calibrate the device, color of alarm, etc. Once the serial signals are sent to the raspberry pi, it is sent to the client to alert the GUI application that there is someone at the device.
+
+## Video form explanation and code
+Here :
+https://www.youtube.com/watch?v=acbtONKZGsk
