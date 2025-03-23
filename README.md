@@ -1,6 +1,6 @@
 # Sensor Project
 
-"Sensor" is a pet project I made with an arduino and raspberry pi. Using the device i you can connect to a server thats hosted on the raspberry pi and open the gui application. Using the gui application
+"Sensor" is a pet project I made with an arduino and raspberry pi. Using the device you can connect to a server thats hosted on the raspberry pi and open the gui application. Using the gui application
 you can calibrate, change the alert color and much more.
 
 ## How to Run
